@@ -28,4 +28,4 @@ Challenge Competition.
 Dataset is stored privately on Google Drive and not included in this repo.
 
 ## Results
-- Test Accuracy: 88.0%
+- Test Accuracy: 97.98 %
